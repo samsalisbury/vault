@@ -1,0 +1,21 @@
+{
+  "name": "core",
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {
+    "ember-auto-import": "*",
+    "ember-basic-dropdown": "*",
+    "ember-cli-htmlbars": "*",
+    "ember-cli-htmlbars-inline-precompile": "*",
+    "ember-cli-babel": "*",
+    "ember-cli-clipboard": "*",
+    "ember-radio-button": "*",
+    "ember-composable-helpers": "*",
+    "ember-cli-string-helpers": "*",
+    "ember-truth-helpers": "*",
+    "ember-concurrency": "*",
+    "base64-js": "*",
+    "Duration.js": "*"
+  }
+}
